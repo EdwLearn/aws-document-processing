@@ -60,3 +60,31 @@ kaggle.json
 
 # Project specific
 master
+
+# Data files - managed by DVC
+/data/raw/
+/data/processed/
+/models/
+
+# Large dataset files
+*.jpg
+*.png
+*.jpeg
+*.tiff
+
+# ML artifacts
+*.h5
+*.pkl
+*.joblib
+*.onnx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs and outputs
+logs/
+outputs/
+*.log
+
+# DVC files (track .dvc files, ignore cache)
+.dvc/cache
