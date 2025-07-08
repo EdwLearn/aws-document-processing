@@ -1,0 +1,16 @@
+{
+  "cpu_accuracy": 0.9452054500579834,
+  "gpu_accuracy": 0.9726027250289917,
+  "test_samples": 73,
+  "class_distribution": {
+    "document": 8,
+    "licence": 47,
+    "odometer": 18
+  },
+  "differences_count": 2,
+  "gpu_avg_confidence": 0.9561336040496826,
+  "suspicious_indicators": [
+    "Very high accuracy",
+    "Small test set"
+  ]
+}

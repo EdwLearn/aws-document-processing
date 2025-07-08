@@ -1,0 +1,3972 @@
+[
+  {
+    "id": 47,
+    "original_file": "Cars408.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0047_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0047_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0047_enhanced.jpg",
+    "bbox": {
+      "xmin": 160,
+      "ymin": 217,
+      "xmax": 187,
+      "ymax": 228,
+      "width": 27,
+      "height": 11
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 267
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 260,
+    "original_file": "Cars391.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0260_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0260_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0260_enhanced.jpg",
+    "bbox": {
+      "xmin": 270,
+      "ymin": 163,
+      "xmax": 320,
+      "ymax": 190,
+      "width": 50,
+      "height": 27
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 431,
+        "height": 242
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2095,
+    "original_file": "20210402_17_10_13_000_tHVCLHCXXCOEXbW5phyTYYzQXDs2_F_4016_3008.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0095_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0095_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3008,
+        "height": 4016
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210402_17_10_13_000_tHVCLHCXXCOEXbW5phyTYYzQXDs2_F_4016_3008.jpg"
+  },
+  {
+    "id": 405,
+    "original_file": "Cars209.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0405_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0405_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0405_enhanced.jpg",
+    "bbox": {
+      "xmin": 359,
+      "ymin": 172,
+      "xmax": 387,
+      "ymax": 186,
+      "width": 28,
+      "height": 14
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 80,
+    "original_file": "Cars57.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0080_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0080_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0080_enhanced.jpg",
+    "bbox": {
+      "xmin": 270,
+      "ymin": 162,
+      "xmax": 321,
+      "ymax": 195,
+      "width": 51,
+      "height": 33
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 431,
+        "height": 242
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 458,
+    "original_file": "Cars367.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0458_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0458_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0458_enhanced.jpg",
+    "bbox": {
+      "xmin": 224,
+      "ymin": 161,
+      "xmax": 382,
+      "ymax": 222,
+      "width": 158,
+      "height": 61
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 450,
+        "height": 299
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2114,
+    "original_file": "20210403_16_44_27_000_3sOaQCWYrHVWodxqZjQaTJvDIBE3_F_3096_4128.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0114_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0114_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3096,
+        "height": 4128
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210403_16_44_27_000_3sOaQCWYrHVWodxqZjQaTJvDIBE3_F_3096_4128.jpg"
+  },
+  {
+    "id": 156,
+    "original_file": "Cars369.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0156_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0156_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0156_enhanced.jpg",
+    "bbox": {
+      "xmin": 176,
+      "ymin": 253,
+      "xmax": 325,
+      "ymax": 280,
+      "width": 149,
+      "height": 27
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 500,
+        "height": 400
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 27,
+    "original_file": "Cars262.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0027_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0027_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0027_enhanced.jpg",
+    "bbox": {
+      "xmin": 243,
+      "ymin": 184,
+      "xmax": 285,
+      "ymax": 205,
+      "width": 42,
+      "height": 21
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 301
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 368,
+    "original_file": "Cars405.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0368_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0368_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0368_enhanced.jpg",
+    "bbox": {
+      "xmin": 241,
+      "ymin": 207,
+      "xmax": 299,
+      "ymax": 232,
+      "width": 58,
+      "height": 25
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 586,
+        "height": 331
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 121,
+    "original_file": "Cars35.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0121_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0121_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0121_enhanced.jpg",
+    "bbox": {
+      "xmin": 91,
+      "ymin": 186,
+      "xmax": 137,
+      "ymax": 208,
+      "width": 46,
+      "height": 22
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 267
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 363,
+    "original_file": "Cars242.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0363_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0363_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0363_enhanced.jpg",
+    "bbox": {
+      "xmin": 224,
+      "ymin": 170,
+      "xmax": 277,
+      "ymax": 199,
+      "width": 53,
+      "height": 29
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 400
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 470,
+    "original_file": "Cars237.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0470_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0470_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0470_enhanced.jpg",
+    "bbox": {
+      "xmin": 118,
+      "ymin": 148,
+      "xmax": 154,
+      "ymax": 169,
+      "width": 36,
+      "height": 21
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 236,
+        "height": 314
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 390,
+    "original_file": "Cars173.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0390_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0390_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0390_enhanced.jpg",
+    "bbox": {
+      "xmin": 170,
+      "ymin": 118,
+      "xmax": 252,
+      "ymax": 163,
+      "width": 82,
+      "height": 45
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 226
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 207,
+    "original_file": "Cars104.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0207_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0207_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0207_enhanced.jpg",
+    "bbox": {
+      "xmin": 195,
+      "ymin": 266,
+      "xmax": 244,
+      "ymax": 282,
+      "width": 49,
+      "height": 16
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 500,
+        "height": 374
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2067,
+    "original_file": "20210327_18_59_42_000_oo6eGq9qFNfYiTjSXwAr8aKXVFM2_F_3096_4128.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0067_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0067_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3096,
+        "height": 4128
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210327_18_59_42_000_oo6eGq9qFNfYiTjSXwAr8aKXVFM2_F_3096_4128.jpg"
+  },
+  {
+    "id": 213,
+    "original_file": "Cars257.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0213_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0213_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0213_enhanced.jpg",
+    "bbox": {
+      "xmin": 167,
+      "ymin": 132,
+      "xmax": 241,
+      "ymax": 166,
+      "width": 74,
+      "height": 34
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2046,
+    "original_file": "20210329_23_30_22_000_b58ZZ9m5wBSwHo34T9ce6RPCj2Y2_F_3000_4000.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0046_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0046_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3000,
+        "height": 4000
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210329_23_30_22_000_b58ZZ9m5wBSwHo34T9ce6RPCj2Y2_F_3000_4000.jpg"
+  },
+  {
+    "id": 445,
+    "original_file": "Cars419.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0445_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0445_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0445_enhanced.jpg",
+    "bbox": {
+      "xmin": 195,
+      "ymin": 196,
+      "xmax": 349,
+      "ymax": 242,
+      "width": 154,
+      "height": 46
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 353
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 214,
+    "original_file": "Cars286.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0214_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0214_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0214_enhanced.jpg",
+    "bbox": {
+      "xmin": 201,
+      "ymin": 191,
+      "xmax": 288,
+      "ymax": 230,
+      "width": 87,
+      "height": 39
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 500,
+        "height": 375
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 432,
+    "original_file": "Cars103.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0432_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0432_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0432_enhanced.jpg",
+    "bbox": {
+      "xmin": 230,
+      "ymin": 129,
+      "xmax": 248,
+      "ymax": 134,
+      "width": 18,
+      "height": 5
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 196
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 49,
+    "original_file": "Cars321.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0049_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0049_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0049_enhanced.jpg",
+    "bbox": {
+      "xmin": 134,
+      "ymin": 235,
+      "xmax": 169,
+      "ymax": 246,
+      "width": 35,
+      "height": 11
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 301,
+        "height": 400
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 421,
+    "original_file": "Cars330.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0421_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0421_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0421_enhanced.jpg",
+    "bbox": {
+      "xmin": 313,
+      "ymin": 180,
+      "xmax": 333,
+      "ymax": 191,
+      "width": 20,
+      "height": 11
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2167,
+    "original_file": "20210402_21_30_19_000_Kgko3augJAgE3duDRWrp9V7AKAA3_T_2250_4000.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0167_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0167_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 4000,
+        "height": 2250
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210402_21_30_19_000_Kgko3augJAgE3duDRWrp9V7AKAA3_T_2250_4000.jpg"
+  },
+  {
+    "id": 2079,
+    "original_file": "20210406_15_44_42_000_FcbNDf9L6YeNDF6BfR94sYKS8w52_F_4608_3456.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0079_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0079_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3456,
+        "height": 4608
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210406_15_44_42_000_FcbNDf9L6YeNDF6BfR94sYKS8w52_F_4608_3456.jpg"
+  },
+  {
+    "id": 2127,
+    "original_file": "20210327_21_39_46_000_Ap0HZBy1ugX93xKCSriPwETkGU03_T_2268_4032.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0127_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0127_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 4032,
+        "height": 2268
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210327_21_39_46_000_Ap0HZBy1ugX93xKCSriPwETkGU03_T_2268_4032.jpg"
+  },
+  {
+    "id": 257,
+    "original_file": "Cars183.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0257_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0257_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0257_enhanced.jpg",
+    "bbox": {
+      "xmin": 97,
+      "ymin": 138,
+      "xmax": 234,
+      "ymax": 170,
+      "width": 137,
+      "height": 32
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 590,
+        "height": 350
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 306,
+    "original_file": "Cars322.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0306_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0306_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0306_enhanced.jpg",
+    "bbox": {
+      "xmin": 274,
+      "ymin": 257,
+      "xmax": 350,
+      "ymax": 297,
+      "width": 76,
+      "height": 40
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 354
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 235,
+    "original_file": "Cars0.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0235_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0235_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0235_enhanced.jpg",
+    "bbox": {
+      "xmin": 226,
+      "ymin": 125,
+      "xmax": 419,
+      "ymax": 173,
+      "width": 193,
+      "height": 48
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 500,
+        "height": 268
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 436,
+    "original_file": "Cars319.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0436_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0436_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0436_enhanced.jpg",
+    "bbox": {
+      "xmin": 167,
+      "ymin": 228,
+      "xmax": 232,
+      "ymax": 259,
+      "width": 65,
+      "height": 31
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 342
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 189,
+    "original_file": "Cars132.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0189_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0189_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0189_enhanced.jpg",
+    "bbox": {
+      "xmin": 378,
+      "ymin": 188,
+      "xmax": 400,
+      "ymax": 200,
+      "width": 22,
+      "height": 12
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 225
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2123,
+    "original_file": "20210327_17_51_30_000_35siPKenpwZuk6jNDKI60h1TPvH3_F_3264_2448.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0123_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0123_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 2448,
+        "height": 3264
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210327_17_51_30_000_35siPKenpwZuk6jNDKI60h1TPvH3_F_3264_2448.jpg"
+  },
+  {
+    "id": 350,
+    "original_file": "Cars309.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0350_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0350_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0350_enhanced.jpg",
+    "bbox": {
+      "xmin": 152,
+      "ymin": 122,
+      "xmax": 252,
+      "ymax": 207,
+      "width": 100,
+      "height": 85
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 225
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2009,
+    "original_file": "20210404_14_02_20_000_ItYrdMX5aTP98c1aNH7zlRdCSMK2_F_3264_2448.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0009_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0009_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 2448,
+        "height": 3264
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210404_14_02_20_000_ItYrdMX5aTP98c1aNH7zlRdCSMK2_F_3264_2448.jpg"
+  },
+  {
+    "id": 21,
+    "original_file": "Cars270.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0021_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0021_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0021_enhanced.jpg",
+    "bbox": {
+      "xmin": 75,
+      "ymin": 173,
+      "xmax": 125,
+      "ymax": 195,
+      "width": 50,
+      "height": 22
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 225
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 337,
+    "original_file": "Cars386.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0337_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0337_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0337_enhanced.jpg",
+    "bbox": {
+      "xmin": 83,
+      "ymin": 307,
+      "xmax": 221,
+      "ymax": 368,
+      "width": 138,
+      "height": 61
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 600,
+        "height": 450
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 205,
+    "original_file": "Cars13.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0205_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0205_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0205_enhanced.jpg",
+    "bbox": {
+      "xmin": 191,
+      "ymin": 147,
+      "xmax": 242,
+      "ymax": 169,
+      "width": 51,
+      "height": 22
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 268
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 53,
+    "original_file": "Cars432.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0053_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0053_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0053_enhanced.jpg",
+    "bbox": {
+      "xmin": 95,
+      "ymin": 258,
+      "xmax": 196,
+      "ymax": 284,
+      "width": 101,
+      "height": 26
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 467,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2146,
+    "original_file": "20210331_17_16_42_000_eLNlEXq65eM8BdlUcuU78ClNPBW2_F_3264_2448.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0146_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0146_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 2448,
+        "height": 3264
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210331_17_16_42_000_eLNlEXq65eM8BdlUcuU78ClNPBW2_F_3264_2448.jpg"
+  },
+  {
+    "id": 409,
+    "original_file": "Cars151.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0409_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0409_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0409_enhanced.jpg",
+    "bbox": {
+      "xmin": 54,
+      "ymin": 135,
+      "xmax": 120,
+      "ymax": 178,
+      "width": 66,
+      "height": 43
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 242
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 99,
+    "original_file": "Cars203.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0099_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0099_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0099_enhanced.jpg",
+    "bbox": {
+      "xmin": 116,
+      "ymin": 112,
+      "xmax": 271,
+      "ymax": 165,
+      "width": 155,
+      "height": 53
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 267
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 288,
+    "original_file": "Cars328.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0288_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0288_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0288_enhanced.jpg",
+    "bbox": {
+      "xmin": 156,
+      "ymin": 149,
+      "xmax": 248,
+      "ymax": 170,
+      "width": 92,
+      "height": 21
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 233
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 43,
+    "original_file": "Cars352.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0043_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0043_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0043_enhanced.jpg",
+    "bbox": {
+      "xmin": 201,
+      "ymin": 185,
+      "xmax": 217,
+      "ymax": 195,
+      "width": 16,
+      "height": 10
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 300,
+        "height": 400
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 309,
+    "original_file": "Cars106.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0309_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0309_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0309_enhanced.jpg",
+    "bbox": {
+      "xmin": 245,
+      "ymin": 79,
+      "xmax": 270,
+      "ymax": 94,
+      "width": 25,
+      "height": 15
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 247
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 308,
+    "original_file": "Cars106.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0308_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0308_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0308_enhanced.jpg",
+    "bbox": {
+      "xmin": 138,
+      "ymin": 79,
+      "xmax": 177,
+      "ymax": 92,
+      "width": 39,
+      "height": 13
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 247
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 135,
+    "original_file": "Cars80.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0135_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0135_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0135_enhanced.jpg",
+    "bbox": {
+      "xmin": 94,
+      "ymin": 148,
+      "xmax": 279,
+      "ymax": 186,
+      "width": 185,
+      "height": 38
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 295
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2007,
+    "original_file": "20210327_08_23_46_000_crHN6u2autT2t2mZyZFC4pMAgS22_F_4016_3008.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0007_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0007_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3008,
+        "height": 4016
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210327_08_23_46_000_crHN6u2autT2t2mZyZFC4pMAgS22_F_4016_3008.jpg"
+  },
+  {
+    "id": 1,
+    "original_file": "Cars317.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0001_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0001_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0001_enhanced.jpg",
+    "bbox": {
+      "xmin": 164,
+      "ymin": 202,
+      "xmax": 240,
+      "ymax": 220,
+      "width": 76,
+      "height": 18
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 151,
+    "original_file": "Cars314.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0151_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0151_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0151_enhanced.jpg",
+    "bbox": {
+      "xmin": 195,
+      "ymin": 149,
+      "xmax": 274,
+      "ymax": 209,
+      "width": 79,
+      "height": 60
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 209
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2168,
+    "original_file": "20210329_07_33_35_000_vxSikn30QBdpYZhGptATAhiAwbb2_F_3264_2448.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0168_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0168_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 2448,
+        "height": 3264
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210329_07_33_35_000_vxSikn30QBdpYZhGptATAhiAwbb2_F_3264_2448.jpg"
+  },
+  {
+    "id": 467,
+    "original_file": "Cars320.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0467_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0467_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0467_enhanced.jpg",
+    "bbox": {
+      "xmin": 99,
+      "ymin": 225,
+      "xmax": 257,
+      "ymax": 266,
+      "width": 158,
+      "height": 41
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 375,
+        "height": 500
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 359,
+    "original_file": "Cars212.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0359_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0359_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0359_enhanced.jpg",
+    "bbox": {
+      "xmin": 105,
+      "ymin": 94,
+      "xmax": 290,
+      "ymax": 141,
+      "width": 185,
+      "height": 47
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 54,
+    "original_file": "Cars359.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0054_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0054_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0054_enhanced.jpg",
+    "bbox": {
+      "xmin": 228,
+      "ymin": 228,
+      "xmax": 266,
+      "ymax": 240,
+      "width": 38,
+      "height": 12
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 284
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 241,
+    "original_file": "Cars238.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0241_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0241_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0241_enhanced.jpg",
+    "bbox": {
+      "xmin": 276,
+      "ymin": 186,
+      "xmax": 396,
+      "ymax": 273,
+      "width": 120,
+      "height": 87
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 600,
+        "height": 400
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 251,
+    "original_file": "Cars89.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0251_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0251_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0251_enhanced.jpg",
+    "bbox": {
+      "xmin": 307,
+      "ymin": 206,
+      "xmax": 345,
+      "ymax": 221,
+      "width": 38,
+      "height": 15
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 262
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 293,
+    "original_file": "Cars193.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0293_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0293_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0293_enhanced.jpg",
+    "bbox": {
+      "xmin": 306,
+      "ymin": 193,
+      "xmax": 344,
+      "ymax": 214,
+      "width": 38,
+      "height": 21
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 267
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 303,
+    "original_file": "Cars421.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0303_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0303_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0303_enhanced.jpg",
+    "bbox": {
+      "xmin": 95,
+      "ymin": 162,
+      "xmax": 127,
+      "ymax": 183,
+      "width": 32,
+      "height": 21
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 299
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 435,
+    "original_file": "Cars123.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0435_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0435_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0435_enhanced.jpg",
+    "bbox": {
+      "xmin": 159,
+      "ymin": 221,
+      "xmax": 237,
+      "ymax": 242,
+      "width": 78,
+      "height": 21
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 212,
+    "original_file": "Cars121.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0212_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0212_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0212_enhanced.jpg",
+    "bbox": {
+      "xmin": 336,
+      "ymin": 192,
+      "xmax": 357,
+      "ymax": 204,
+      "width": 21,
+      "height": 12
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 71,
+    "original_file": "Cars72.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0071_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0071_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0071_enhanced.jpg",
+    "bbox": {
+      "xmin": 156,
+      "ymin": 182,
+      "xmax": 255,
+      "ymax": 208,
+      "width": 99,
+      "height": 26
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 332
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 243,
+    "original_file": "Cars223.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0243_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0243_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0243_enhanced.jpg",
+    "bbox": {
+      "xmin": 347,
+      "ymin": 231,
+      "xmax": 407,
+      "ymax": 249,
+      "width": 60,
+      "height": 18
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 600,
+        "height": 400
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 160,
+    "original_file": "Cars164.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0160_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0160_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0160_enhanced.jpg",
+    "bbox": {
+      "xmin": 160,
+      "ymin": 144,
+      "xmax": 239,
+      "ymax": 183,
+      "width": 79,
+      "height": 39
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 268
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 270,
+    "original_file": "Cars253.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0270_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0270_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0270_enhanced.jpg",
+    "bbox": {
+      "xmin": 25,
+      "ymin": 124,
+      "xmax": 64,
+      "ymax": 137,
+      "width": 39,
+      "height": 13
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 210
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 100,
+    "original_file": "Cars90.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0100_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0100_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0100_enhanced.jpg",
+    "bbox": {
+      "xmin": 77,
+      "ymin": 204,
+      "xmax": 101,
+      "ymax": 225,
+      "width": 24,
+      "height": 21
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 201,
+    "original_file": "Cars227.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0201_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0201_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0201_enhanced.jpg",
+    "bbox": {
+      "xmin": 118,
+      "ymin": 199,
+      "xmax": 153,
+      "ymax": 211,
+      "width": 35,
+      "height": 12
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 267
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2175,
+    "original_file": "20210326_17_59_46_000_V0QjG7u282Wgc4E1hIvg5F7TMT42_F_3264_2448.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0175_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0175_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 2448,
+        "height": 3264
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210326_17_59_46_000_V0QjG7u282Wgc4E1hIvg5F7TMT42_F_3264_2448.jpg"
+  },
+  {
+    "id": 2089,
+    "original_file": "20210326_14_31_42_000_rtotiNxplbOYVvZfvS1krYTWj1g1_F_3096_4128.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0089_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0089_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3096,
+        "height": 4128
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210326_14_31_42_000_rtotiNxplbOYVvZfvS1krYTWj1g1_F_3096_4128.jpg"
+  },
+  {
+    "id": 460,
+    "original_file": "Cars167.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0460_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0460_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0460_enhanced.jpg",
+    "bbox": {
+      "xmin": 176,
+      "ymin": 254,
+      "xmax": 327,
+      "ymax": 285,
+      "width": 151,
+      "height": 31
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 500,
+        "height": 400
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 326,
+    "original_file": "Cars266.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0326_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0326_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0326_enhanced.jpg",
+    "bbox": {
+      "xmin": 15,
+      "ymin": 84,
+      "xmax": 84,
+      "ymax": 102,
+      "width": 69,
+      "height": 18
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 225
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2038,
+    "original_file": "20210405_16_26_56_000_tsm1L5zXAdPemp8kIdp7McHkoyv1_F_4000_3000.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0038_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0038_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3000,
+        "height": 4000
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210405_16_26_56_000_tsm1L5zXAdPemp8kIdp7McHkoyv1_F_4000_3000.jpg"
+  },
+  {
+    "id": 102,
+    "original_file": "Cars416.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0102_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0102_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0102_enhanced.jpg",
+    "bbox": {
+      "xmin": 150,
+      "ymin": 207,
+      "xmax": 234,
+      "ymax": 221,
+      "width": 84,
+      "height": 14
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 20,
+    "original_file": "Cars296.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0020_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0020_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0020_enhanced.jpg",
+    "bbox": {
+      "xmin": 163,
+      "ymin": 158,
+      "xmax": 234,
+      "ymax": 196,
+      "width": 71,
+      "height": 38
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 318
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 387,
+    "original_file": "Cars77.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0387_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0387_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0387_enhanced.jpg",
+    "bbox": {
+      "xmin": 229,
+      "ymin": 151,
+      "xmax": 309,
+      "ymax": 178,
+      "width": 80,
+      "height": 27
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 270
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2064,
+    "original_file": "20210327_12_36_15_000_OojkzkdK26MvQ57Fk908jfbJYms2_F_3000_4000.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0064_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0064_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3000,
+        "height": 4000
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210327_12_36_15_000_OojkzkdK26MvQ57Fk908jfbJYms2_F_3000_4000.jpg"
+  },
+  {
+    "id": 443,
+    "original_file": "Cars394.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0443_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0443_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0443_enhanced.jpg",
+    "bbox": {
+      "xmin": 291,
+      "ymin": 167,
+      "xmax": 410,
+      "ymax": 190,
+      "width": 119,
+      "height": 23
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 555,
+        "height": 416
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 279,
+    "original_file": "Cars142.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0279_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0279_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0279_enhanced.jpg",
+    "bbox": {
+      "xmin": 178,
+      "ymin": 124,
+      "xmax": 273,
+      "ymax": 144,
+      "width": 95,
+      "height": 20
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 198
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 276,
+    "original_file": "Cars108.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0276_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0276_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0276_enhanced.jpg",
+    "bbox": {
+      "xmin": 158,
+      "ymin": 216,
+      "xmax": 277,
+      "ymax": 248,
+      "width": 119,
+      "height": 32
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 442,
+        "height": 333
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2083,
+    "original_file": "20210401_08_27_21_000_s4OZ2vkYaAOdfW0OY2WTHtYlGcp2_T_3000_4000.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0083_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0083_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 4000,
+        "height": 3000
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210401_08_27_21_000_s4OZ2vkYaAOdfW0OY2WTHtYlGcp2_T_3000_4000.jpg"
+  },
+  {
+    "id": 454,
+    "original_file": "Cars403.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0454_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0454_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0454_enhanced.jpg",
+    "bbox": {
+      "xmin": 23,
+      "ymin": 173,
+      "xmax": 54,
+      "ymax": 192,
+      "width": 31,
+      "height": 19
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 320
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2003,
+    "original_file": "20210326_00_18_21_000_bFf7mjfpLJdHjH3GXc7mFXLZFuP2_F_3096_4128.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0003_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0003_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3096,
+        "height": 4128
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210326_00_18_21_000_bFf7mjfpLJdHjH3GXc7mFXLZFuP2_F_3096_4128.jpg"
+  },
+  {
+    "id": 134,
+    "original_file": "Cars38.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0134_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0134_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0134_enhanced.jpg",
+    "bbox": {
+      "xmin": 168,
+      "ymin": 196,
+      "xmax": 240,
+      "ymax": 231,
+      "width": 72,
+      "height": 35
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 386,
+        "height": 400
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 169,
+    "original_file": "Cars85.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0169_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0169_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0169_enhanced.jpg",
+    "bbox": {
+      "xmin": 313,
+      "ymin": 129,
+      "xmax": 358,
+      "ymax": 141,
+      "width": 45,
+      "height": 12
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 267
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 200,
+    "original_file": "Cars136.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0200_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0200_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0200_enhanced.jpg",
+    "bbox": {
+      "xmin": 164,
+      "ymin": 104,
+      "xmax": 245,
+      "ymax": 119,
+      "width": 81,
+      "height": 15
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 267
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 413,
+    "original_file": "Cars409.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0413_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0413_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0413_enhanced.jpg",
+    "bbox": {
+      "xmin": 116,
+      "ymin": 146,
+      "xmax": 203,
+      "ymax": 168,
+      "width": 87,
+      "height": 22
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 320,
+        "height": 276
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 88,
+    "original_file": "Cars347.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0088_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0088_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0088_enhanced.jpg",
+    "bbox": {
+      "xmin": 227,
+      "ymin": 124,
+      "xmax": 252,
+      "ymax": 135,
+      "width": 25,
+      "height": 11
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 210
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 463,
+    "original_file": "Cars4.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0463_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0463_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0463_enhanced.jpg",
+    "bbox": {
+      "xmin": 156,
+      "ymin": 82,
+      "xmax": 503,
+      "ymax": 253,
+      "width": 347,
+      "height": 171
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 590,
+        "height": 350
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 403,
+    "original_file": "Cars149.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0403_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0403_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0403_enhanced.jpg",
+    "bbox": {
+      "xmin": 212,
+      "ymin": 182,
+      "xmax": 245,
+      "ymax": 203,
+      "width": 33,
+      "height": 21
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 281
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 269,
+    "original_file": "Cars14.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0269_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0269_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0269_enhanced.jpg",
+    "bbox": {
+      "xmin": 94,
+      "ymin": 118,
+      "xmax": 274,
+      "ymax": 163,
+      "width": 180,
+      "height": 45
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 225
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2094,
+    "original_file": "20210326_13_05_40_000_AGFXendf1EcqVor3aJwbxs4uSV03_F_3096_4128.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0094_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0094_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3096,
+        "height": 4128
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210326_13_05_40_000_AGFXendf1EcqVor3aJwbxs4uSV03_F_3096_4128.jpg"
+  },
+  {
+    "id": 128,
+    "original_file": "Cars9.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0128_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0128_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0128_enhanced.jpg",
+    "bbox": {
+      "xmin": 164,
+      "ymin": 224,
+      "xmax": 272,
+      "ymax": 247,
+      "width": 108,
+      "height": 23
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 442,
+        "height": 333
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 34,
+    "original_file": "Cars277.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0034_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0034_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0034_enhanced.jpg",
+    "bbox": {
+      "xmin": 373,
+      "ymin": 212,
+      "xmax": 388,
+      "ymax": 217,
+      "width": 15,
+      "height": 5
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 291
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 295,
+    "original_file": "Cars340.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0295_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0295_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0295_enhanced.jpg",
+    "bbox": {
+      "xmin": 270,
+      "ymin": 126,
+      "xmax": 321,
+      "ymax": 143,
+      "width": 51,
+      "height": 17
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 200
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 389,
+    "original_file": "Cars153.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0389_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0389_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0389_enhanced.jpg",
+    "bbox": {
+      "xmin": 146,
+      "ymin": 118,
+      "xmax": 311,
+      "ymax": 170,
+      "width": 165,
+      "height": 52
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 471,
+        "height": 270
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 216,
+    "original_file": "Cars239.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0216_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0216_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0216_enhanced.jpg",
+    "bbox": {
+      "xmin": 176,
+      "ymin": 254,
+      "xmax": 326,
+      "ymax": 284,
+      "width": 150,
+      "height": 30
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 500,
+        "height": 400
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2073,
+    "original_file": "20210408_15_40_25_000_XA51RI1A7CcFgT0SqzDxOIIXbdo1_F_2448_3264.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0073_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0073_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 2448,
+        "height": 3264
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210408_15_40_25_000_XA51RI1A7CcFgT0SqzDxOIIXbdo1_F_2448_3264.jpg"
+  },
+  {
+    "id": 58,
+    "original_file": "Cars249.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0058_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0058_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0058_enhanced.jpg",
+    "bbox": {
+      "xmin": 238,
+      "ymin": 60,
+      "xmax": 269,
+      "ymax": 79,
+      "width": 31,
+      "height": 19
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 247
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 430,
+    "original_file": "Cars255.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0430_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0430_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0430_enhanced.jpg",
+    "bbox": {
+      "xmin": 116,
+      "ymin": 156,
+      "xmax": 273,
+      "ymax": 188,
+      "width": 157,
+      "height": 32
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 267
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 256,
+    "original_file": "Cars189.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0256_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0256_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0256_enhanced.jpg",
+    "bbox": {
+      "xmin": 285,
+      "ymin": 241,
+      "xmax": 423,
+      "ymax": 286,
+      "width": 138,
+      "height": 45
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 435,
+        "height": 290
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2028,
+    "original_file": "20210408_19_51_58_000_ync2F6VudrUXRH1VJekWNBALVdg1_F_4032_3024.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0028_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0028_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3024,
+        "height": 4032
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210408_19_51_58_000_ync2F6VudrUXRH1VJekWNBALVdg1_F_4032_3024.jpg"
+  },
+  {
+    "id": 348,
+    "original_file": "Cars163.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0348_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0348_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0348_enhanced.jpg",
+    "bbox": {
+      "xmin": 220,
+      "ymin": 173,
+      "xmax": 360,
+      "ymax": 200,
+      "width": 140,
+      "height": 27
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 590,
+        "height": 350
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 14,
+    "original_file": "Cars384.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0014_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0014_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0014_enhanced.jpg",
+    "bbox": {
+      "xmin": 219,
+      "ymin": 194,
+      "xmax": 271,
+      "ymax": 230,
+      "width": 52,
+      "height": 36
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2043,
+    "original_file": "20210330_08_06_20_000_hTG0PtGvFvXk6GMywuw2EcmBMed2_T_809_1080.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0043_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0043_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 1080,
+        "height": 809
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210330_08_06_20_000_hTG0PtGvFvXk6GMywuw2EcmBMed2_T_809_1080.jpg"
+  },
+  {
+    "id": 2022,
+    "original_file": "20210403_10_48_05_000_P4BaFKE14LgYwXfsEJvnT2GOa8Q2_F_3264_2448.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0022_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0022_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 2448,
+        "height": 3264
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210403_10_48_05_000_P4BaFKE14LgYwXfsEJvnT2GOa8Q2_F_3264_2448.jpg"
+  },
+  {
+    "id": 2132,
+    "original_file": "20210330_12_05_31_000_1jUuI496JZUoI4SfzLdaIdKD30v1_F_4000_3000.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0132_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0132_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3000,
+        "height": 4000
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210330_12_05_31_000_1jUuI496JZUoI4SfzLdaIdKD30v1_F_4000_3000.jpg"
+  },
+  {
+    "id": 87,
+    "original_file": "Cars5.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0087_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0087_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0087_enhanced.jpg",
+    "bbox": {
+      "xmin": 226,
+      "ymin": 218,
+      "xmax": 242,
+      "ymax": 240,
+      "width": 16,
+      "height": 22
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 295
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 91,
+    "original_file": "Cars329.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0091_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0091_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0091_enhanced.jpg",
+    "bbox": {
+      "xmin": 166,
+      "ymin": 142,
+      "xmax": 224,
+      "ymax": 176,
+      "width": 58,
+      "height": 34
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 255
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 263,
+    "original_file": "Cars299.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0263_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0263_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0263_enhanced.jpg",
+    "bbox": {
+      "xmin": 101,
+      "ymin": 136,
+      "xmax": 270,
+      "ymax": 176,
+      "width": 169,
+      "height": 40
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2066,
+    "original_file": "20210329_22_20_56_000_SW60uiSW7XOGbhuK9v8m10EVvGl2_F_4032_3024.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0066_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0066_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3024,
+        "height": 4032
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210329_22_20_56_000_SW60uiSW7XOGbhuK9v8m10EVvGl2_F_4032_3024.jpg"
+  },
+  {
+    "id": 2006,
+    "original_file": "20210405_16_16_20_000_tsm1L5zXAdPemp8kIdp7McHkoyv1_F_4000_3000.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0006_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0006_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3000,
+        "height": 4000
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210405_16_16_20_000_tsm1L5zXAdPemp8kIdp7McHkoyv1_F_4000_3000.jpg"
+  },
+  {
+    "id": 2137,
+    "original_file": "20210403_08_18_02_000_N2A5XkofHHbUxkxT2LBOcctxE4f2_T_2976_3968.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0137_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0137_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3968,
+        "height": 2976
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210403_08_18_02_000_N2A5XkofHHbUxkxT2LBOcctxE4f2_T_2976_3968.jpg"
+  },
+  {
+    "id": 366,
+    "original_file": "Cars343.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0366_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0366_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0366_enhanced.jpg",
+    "bbox": {
+      "xmin": 110,
+      "ymin": 186,
+      "xmax": 162,
+      "ymax": 209,
+      "width": 52,
+      "height": 23
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 171,
+    "original_file": "Cars318.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0171_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0171_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0171_enhanced.jpg",
+    "bbox": {
+      "xmin": 119,
+      "ymin": 117,
+      "xmax": 263,
+      "ymax": 160,
+      "width": 144,
+      "height": 43
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 225
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2000,
+    "original_file": "20210408_06_56_24_000_kG02JFtBNwY37NXIevVfNrfummb2_F_3264_2448.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0000_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0000_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3264,
+        "height": 2448
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210408_06_56_24_000_kG02JFtBNwY37NXIevVfNrfummb2_F_3264_2448.jpg"
+  },
+  {
+    "id": 2176,
+    "original_file": "20210402_13_36_37_000_qpAER5Z32pPOlrOtgzgRPlrr0w33_F_4160_3120.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0176_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0176_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3120,
+        "height": 4160
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210402_13_36_37_000_qpAER5Z32pPOlrOtgzgRPlrr0w33_F_4160_3120.jpg"
+  },
+  {
+    "id": 416,
+    "original_file": "Cars116.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0416_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0416_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0416_enhanced.jpg",
+    "bbox": {
+      "xmin": 149,
+      "ymin": 218,
+      "xmax": 267,
+      "ymax": 247,
+      "width": 118,
+      "height": 29
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 332
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 423,
+    "original_file": "Cars196.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0423_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0423_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0423_enhanced.jpg",
+    "bbox": {
+      "xmin": 105,
+      "ymin": 128,
+      "xmax": 130,
+      "ymax": 140,
+      "width": 25,
+      "height": 12
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 259
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 343,
+    "original_file": "Cars46.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0343_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0343_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0343_enhanced.jpg",
+    "bbox": {
+      "xmin": 189,
+      "ymin": 193,
+      "xmax": 352,
+      "ymax": 248,
+      "width": 163,
+      "height": 55
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 353
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 188,
+    "original_file": "Cars132.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0188_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0188_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0188_enhanced.jpg",
+    "bbox": {
+      "xmin": 23,
+      "ymin": 190,
+      "xmax": 56,
+      "ymax": 198,
+      "width": 33,
+      "height": 8
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 225
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2145,
+    "original_file": "20210331_10_29_25_000_0wQ7ocSZ4vSoMOZU1EFZL9DfZOt2_F_3264_2448.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0145_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0145_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 2448,
+        "height": 3264
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210331_10_29_25_000_0wQ7ocSZ4vSoMOZU1EFZL9DfZOt2_F_3264_2448.jpg"
+  },
+  {
+    "id": 315,
+    "original_file": "Cars280.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0315_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0315_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0315_enhanced.jpg",
+    "bbox": {
+      "xmin": 191,
+      "ymin": 185,
+      "xmax": 213,
+      "ymax": 195,
+      "width": 22,
+      "height": 10
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 267
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2084,
+    "original_file": "20210330_17_20_35_000_721tI2z8Cjb5dImKFpo5dmtndY82_F_3120_4160.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0084_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0084_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3120,
+        "height": 4160
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210330_17_20_35_000_721tI2z8Cjb5dImKFpo5dmtndY82_F_3120_4160.jpg"
+  },
+  {
+    "id": 226,
+    "original_file": "Cars84.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0226_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0226_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0226_enhanced.jpg",
+    "bbox": {
+      "xmin": 167,
+      "ymin": 201,
+      "xmax": 238,
+      "ymax": 220,
+      "width": 71,
+      "height": 19
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 300
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2093,
+    "original_file": "20210326_13_05_35_000_AGFXendf1EcqVor3aJwbxs4uSV03_F_3096_4128.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0093_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0093_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3096,
+        "height": 4128
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210326_13_05_35_000_AGFXendf1EcqVor3aJwbxs4uSV03_F_3096_4128.jpg"
+  },
+  {
+    "id": 313,
+    "original_file": "Cars155.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0313_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0313_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0313_enhanced.jpg",
+    "bbox": {
+      "xmin": 150,
+      "ymin": 177,
+      "xmax": 203,
+      "ymax": 190,
+      "width": 53,
+      "height": 13
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 267
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2045,
+    "original_file": "20210408_09_49_04_000_AHRkVsh68AXX7SBq82vDmb6xo3G2_F_3264_2448.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0045_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0045_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 2448,
+        "height": 3264
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/bike/20210408_09_49_04_000_AHRkVsh68AXX7SBq82vDmb6xo3G2_F_3264_2448.jpg"
+  },
+  {
+    "id": 191,
+    "original_file": "Cars7.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0191_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0191_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0191_enhanced.jpg",
+    "bbox": {
+      "xmin": 166,
+      "ymin": 141,
+      "xmax": 206,
+      "ymax": 154,
+      "width": 40,
+      "height": 13
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 400,
+        "height": 279
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2129,
+    "original_file": "20210407_15_46_16_000_YnVjrJF7sYSzx6X8ErtoFfri9zg1_F_3264_2448.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0129_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0129_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 2448,
+        "height": 3264
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210407_15_46_16_000_YnVjrJF7sYSzx6X8ErtoFfri9zg1_F_3264_2448.jpg"
+  },
+  {
+    "id": 385,
+    "original_file": "Cars197.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0385_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0385_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0385_enhanced.jpg",
+    "bbox": {
+      "xmin": 222,
+      "ymin": 176,
+      "xmax": 359,
+      "ymax": 201,
+      "width": 137,
+      "height": 25
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 590,
+        "height": 350
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  },
+  {
+    "id": 2068,
+    "original_file": "20210329_10_51_06_000_POO94GdfugNmtFrbbhgGZ0yXe9b2_F_3000_4000.jpg",
+    "full_image_path": "",
+    "roi_path": "data/processed/car_plates/images_rois/odometer_0068_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/odometer_0068_enhanced.jpg",
+    "bbox": {
+      "xmin": 0,
+      "ymin": 0,
+      "xmax": 224,
+      "ymax": 224,
+      "width": 224,
+      "height": 224
+    },
+    "class": "odometer",
+    "image_size": {
+      "original": {
+        "width": 3000,
+        "height": 4000
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    },
+    "source_dataset": "odometer_dataset",
+    "relative_path": "bike and car odometer/car/20210329_10_51_06_000_POO94GdfugNmtFrbbhgGZ0yXe9b2_F_3000_4000.jpg"
+  },
+  {
+    "id": 162,
+    "original_file": "Cars261.png",
+    "full_image_path": "data/processed/car_plates/images_full/plate_0162_full.jpg",
+    "roi_path": "data/processed/car_plates/images_rois/plate_0162_roi.jpg",
+    "enhanced_path": "data/processed/car_plates/images_rois/plate_0162_enhanced.jpg",
+    "bbox": {
+      "xmin": 1,
+      "ymin": 74,
+      "xmax": 464,
+      "ymax": 154,
+      "width": 463,
+      "height": 80
+    },
+    "class": "licence",
+    "image_size": {
+      "original": {
+        "width": 480,
+        "height": 360
+      },
+      "processed": {
+        "width": 224,
+        "height": 224
+      },
+      "roi": {
+        "width": 224,
+        "height": 224
+      }
+    }
+  }
+]

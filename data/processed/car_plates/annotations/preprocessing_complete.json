@@ -1,0 +1,17 @@
+{
+  "total_samples": 649,
+  "classes": [
+    "licence",
+    "odometer"
+  ],
+  "class_distribution": {
+    "licence": 471,
+    "odometer": 178
+  },
+  "splits": {
+    "train": 454,
+    "val": 130,
+    "test": 65
+  },
+  "ready_for_training": true
+}

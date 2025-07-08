@@ -1,3 +1,8 @@
+# ================================
+# VEHICLE DOCUMENT CLASSIFICATION
+# Professional .gitignore
+# ================================
+
 # Python
 __pycache__/
 *.py[cod]
@@ -16,75 +21,47 @@ parts/
 sdist/
 var/
 wheels/
-pip-wheel-metadata/
-share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
 
 # Virtual Environment
 venv/
-ENV/
 env/
+ENV/
 .venv/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb_checkpoints/
 
-# IDEs
-.idea/
-.vscode/
+# TensorFlow/Keras
+*.h5
+*.hdf5
+saved_model/
 
-# Data files (large datasets)
-/data/raw/*
-/data/processed/*
-/models/*
-
-# Logs
-logs/
-*.log
-
-# Environment variables
-.env
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Kaggle
-kaggle.json
-
-# Temporary files
-*.tmp
-*.temp
-
-# Project specific
-master
-
-# Data files - managed by DVC
+# Data (managed by DVC)
+/data/processed/car_plates/images_rois/
 /data/raw/
-/data/processed/
-/models/
-
-# Large dataset files
 *.jpg
-*.png
 *.jpeg
+*.png
 *.tiff
 
-# ML artifacts
-*.h5
-*.pkl
-*.joblib
-*.onnx
+# Models (managed by DVC)
+/models/*.h5
 
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Logs and outputs
-logs/
-outputs/
+# Logs and temp files
 *.log
+.DS_Store
+.vscode/
+.idea/
 
-# DVC files (track .dvc files, ignore cache)
-.dvc/cache
+# OS generated files
+Thumbs.db
+
+# DVC
+/models/*.h5.dvc
+/data/processed/car_plates/images_rois.dvc
+/models/cpu_model.h5

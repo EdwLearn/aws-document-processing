@@ -1,0 +1,57 @@
+{
+  "dataset_info": {
+    "total_samples": 729,
+    "num_classes": 3,
+    "classes": [
+      "licence",
+      "odometer",
+      "document"
+    ],
+    "class_distribution": {
+      "licence": 471,
+      "odometer": 178,
+      "document": 80
+    },
+    "balance_ratio": 5.8875,
+    "augmentation_applied": true,
+    "augmented_documents": 64
+  },
+  "splits": {
+    "train": 510,
+    "val": 146,
+    "test": 73,
+    "strategy": "stratified"
+  },
+  "preprocessing": {
+    "image_size": [
+      224,
+      224
+    ],
+    "enhancement_applied": true,
+    "augmentation_techniques": [
+      "rotate_5",
+      "rotate_-5",
+      "brightness",
+      "contrast",
+      "blur",
+      "noise"
+    ],
+    "datasets_combined": [
+      "car_plate_detection",
+      "odometer_dataset",
+      "document_ocr"
+    ]
+  },
+  "files": {
+    "train_split": "train_balanced_final.json",
+    "val_split": "val_balanced_final.json",
+    "test_split": "test_balanced_final.json"
+  },
+  "quality_metrics": {
+    "balance_quality": "good",
+    "sample_sufficiency": "excellent",
+    "class_diversity": 3
+  },
+  "created_date": "2025-07-04 16:30:17.413578",
+  "version": "balanced_3_classes_final"
+}

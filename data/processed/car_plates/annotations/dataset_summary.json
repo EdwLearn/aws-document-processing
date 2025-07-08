@@ -1,0 +1,11 @@
+{
+  "total_samples": 471,
+  "train_samples": 376,
+  "val_samples": 95,
+  "classes": [
+    "licence"
+  ],
+  "processed_date": "2025-07-04 15:51:31.899707",
+  "source_dataset": "car_plate_detection",
+  "processing_version": "1.0"
+}

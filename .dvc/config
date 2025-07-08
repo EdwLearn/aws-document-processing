@@ -1,0 +1,7 @@
+[core]
+    no_scm = True
+    analytics = false
+    check_update = false
+[cache]
+    dir = cache
+    type = copy
