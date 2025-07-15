@@ -1,188 +1,122 @@
-# 🚀 AWS Document Processing System
+# 🧾 Invoice Processing SaaS Platform
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
-[![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20Textract%20%7C%20S3-orange.svg)](https://aws.amazon.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-green.svg)](https://fastapi.tiangolo.com)
-[![Docker](https://img.shields.io/badge/Docker-Supported-blue.svg)](https://docker.com)
-[![CDK](https://img.shields.io/badge/AWS%20CDK-Infrastructure-yellow.svg)](https://aws.amazon.com/cdk/)
+> AI-powered invoice processing and inventory management for Colombian retail businesses
 
-> **Intelligent document processing system using AWS services for PDF analysis, text extraction, and automated data validation.**
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
+[![AWS](https://img.shields.io/badge/AWS-Textract-orange.svg)](https://aws.amazon.com/textract)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue.svg)](https://postgresql.org)
 
-## 🎯 Overview
+## 🎯 Problem Statement
 
-This system processes multi-page PDF documents, converts them to images, extracts structured data using Amazon Textract, and validates business rules through machine learning models. Perfect for automating document workflows in enterprise environments.
+Colombian retail stores (specifically remate/discount stores) face significant challenges:
+- **83% need better inventory control** (validated through customer surveys)
+- **Manual invoice processing** takes 4+ hours daily
+- **15-20% error rates** in manual data entry
+- **Limited tech solutions** for this specific market segment
 
-## ✨ Features
+## 🚀 Solution
 
-### 🔄 **Document Processing Pipeline**
-- **PDF to Image Conversion** - High-resolution conversion for optimal OCR
-- **Amazon Textract Integration** - Extract text, tables, forms, and signatures
-- **Amazon Comprehend** - Custom classification for relevant page detection
-- **Amazon SageMaker** - Handwriting analysis and business rule validation
+A **B2B SaaS platform** that automates invoice processing using AWS Textract and Computer Vision, specifically designed for Colombian retail businesses working with importers.
 
-### 🌐 **API Endpoints**
-- **POST** `/api/v1/documents/upload` - Upload PDF documents
-- **GET** `/api/v1/documents/{id}/status` - Check processing status
-- **GET** `/api/v1/documents/{id}/results` - Retrieve extraction results
-- **GET** `/api/v1/documents/` - List all processed documents
-- **DELETE** `/api/v1/documents/{id}` - Remove documents
+### Key Features ✨
 
-### 🏗️ **Serverless Architecture**
-- **AWS Lambda Functions** - Scalable, event-driven processing
-- **Step Functions** - Orchestrated workflows with error handling
-- **S3 Storage** - Secure document and result storage
-- **FastAPI** - Modern, async REST API framework
+- **🤖 AI-Powered Extraction**: AWS Textract + OpenCV for 95%+ accuracy
+- **📱 Mobile Support**: Process paper invoices via smartphone photos
+- **🏢 Multi-Tenant**: Secure isolation for multiple businesses
+- **📊 Real-Time Dashboard**: Inventory tracking and analytics
+- **💰 Pay-per-Use**: Flexible pricing ($1,500-2,000 COP per invoice)
+- **⚡ Fast Processing**: <30 seconds per invoice
 
-## 🛠️ Tech Stack
+## 🏗️ Architecture
+Mobile/Web Upload → FastAPI Gateway → AWS S3 → AWS Textract
+↓
+PostgreSQL ← Lambda Processing ← Structured Data ← Analysis
+↓
+Dashboard → Analytics & Reports
 
-### **AWS Services**
-- **Compute**: Lambda, Fargate, SageMaker
-- **Storage**: S3, RDS (MySQL), DynamoDB
-- **AI/ML**: Textract, Comprehend, SageMaker, Rekognition
-- **Orchestration**: Step Functions
-- **Monitoring**: CloudWatch, X-Ray
+### Tech Stack 🛠️
 
-### **Python Ecosystem**
-```python
-# Core Dependencies
-boto3>=1.34.34          # AWS SDK
-fastapi>=0.109.0        # Modern API framework
-pandas>=2.2.0           # Data manipulation
-sqlalchemy>=2.0.25      # Database ORM
-pydantic>=2.5.3         # Data validation
+**Backend:**
+- **FastAPI** - High-performance API framework
+- **SQLAlchemy** - ORM with async support
+- **PostgreSQL** - Production database
+- **Pydantic** - Data validation and serialization
 
-# Document Processing
-pdf2image>=1.17.0       # PDF conversion
-PyMuPDF>=1.23.14       # PDF manipulation
-pillow>=10.2.0          # Image processing
-🚀 Quick Start
-Prerequisites
+**AI/ML:**
+- **AWS Textract** - Document intelligence
+- **OpenCV** - Image preprocessing
+- **Tesseract** - Fallback OCR
 
-Python 3.10+
-AWS CLI configured
-Docker & Docker Compose
-Node.js (for AWS CDK)
+**Infrastructure:**
+- **AWS S3** - Document storage
+- **AWS Lambda** - Serverless processing
+- **Docker** - Containerization
+- **Alembic** - Database migrations
 
-Installation
-bash# Clone repository
-git clone https://github.com/EdwLearn/aws-document-processing.git
-cd aws-document-processing
+## 📋 Current Status
 
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# venv\Scripts\activate   # Windows
+### ✅ Completed Features
 
-# Install dependencies
-pip install -r requirements.txt
+- [x] **Core API Infrastructure**
+  - Multi-tenant FastAPI application
+  - PostgreSQL database with full schema
+  - Authentication system
+  - Async request handling
 
-# Configure environment
-cp .env.example .env
-# Edit .env with your AWS credentials
+- [x] **Invoice Processing Pipeline**
+  - PDF upload and storage
+  - AWS Textract integration
+  - Data extraction and validation
+  - Error handling and fallbacks
 
-# Start API server
-uvicorn src.api.main:app --reload --host 0.0.0.0 --port 8000
-API Documentation
-Once running, access:
+- [x] **REST API Endpoints**
+POST   /api/v1/invoices/upload
+GET    /api/v1/invoices/{id}/status
+GET    /api/v1/invoices/{id}/data
+GET    /api/v1/invoices/
+DELETE /api/v1/invoices/{id}
+GET    /api/v1/invoices/analytics/summary
+### 🚧 In Development
 
-API Docs: http://localhost:8000/docs
-Health Check: http://localhost:8000/health
-API Root: http://localhost:8000/
+- [ ] **Computer Vision for Mobile Photos**
+- [ ] **Web Dashboard Interface**
+- [ ] **Stripe Payment Integration**
+- [ ] **Advanced Analytics**
 
-📁 Project Structure
-aws-document-processing/
-├── 🏗️ infrastructure/
-│   ├── cdk/                    # AWS CDK stacks
-│   └── terraform/              # Alternative IaC
-├── 🐍 src/
-│   ├── lambda_functions/       # Serverless functions
-│   │   └── document_processor/ # PDF processing Lambda
-│   ├── api/                    # FastAPI application
-│   │   ├── main.py            # API entry point
-│   │   └── routers/           # Route handlers
-│   ├── models/                 # Pydantic data models
-│   ├── services/               # Business logic
-│   ├── config/                 # Settings management
-│   └── utils/                  # Helper functions
-├── 🧪 tests/
-│   ├── unit/                   # Unit tests
-│   ├── integration/            # Integration tests
-│   └── fixtures/               # Test data
-├── 📊 notebooks/               # Jupyter notebooks
-├── 🔧 scripts/                 # Automation scripts
-└── 📚 docs/                    # Documentation
-🎯 Current Status
-✅ Completed Features
+## 🚀 Quick Start
 
- Document Processor Lambda - PDF to images + Textract integration
- FastAPI Application - Complete REST API with async endpoints
- Project Structure - Scalable architecture with best practices
- Unit Testing - Comprehensive test suite with mocks
- Development Environment - Docker, testing, and local development
+### Prerequisites
 
-🚧 In Progress
+- Python 3.11+
+- PostgreSQL 15+
+- Docker & Docker Compose
+- AWS Account (for Textract)
 
- S3 Integration - Real file upload and storage
- CDK Infrastructure - AWS resources deployment
- Step Functions - Workflow orchestration
- Database Integration - Persistent data storage
+### Installation
 
-📋 Roadmap
+**Clone the repository**
+ ```bash
+ git clone https://github.com/yourusername/document-processing-system.git
+ cd document-processing-system
+ ```
+## 🗂️ Project Structure
+ ```bash
+src/
+├── api/                    # FastAPI application
+│   ├── main.py            # Application entry point
+│   └── routers/           # API route handlers
+├── config/                # Configuration management
+├── database/              # Database models and connection
+├── models/                # Pydantic data models
+└── services/              # Business logic
+    ├── invoice_processor.py
+    └── textract_service.py
 
- SageMaker Integration - Handwriting analysis model
- Comprehend Classification - Page relevance detection
- ANI API Integration - Identity validation
- QuickSight Dashboards - Business intelligence
- Production Deployment - Multi-environment setup
-
-🧪 Testing
-bash# Run all tests
-pytest
-
-# Run specific test file
-pytest tests/unit/test_document_processor.py -v
-pytest tests/unit/test_api.py -v
-
-# Run with coverage
-pytest --cov=src tests/
-
-# Integration tests (requires AWS credentials)
-pytest tests/integration/ -v
-📊 API Usage Examples
-Upload Document
-bashcurl -X POST "http://localhost:8000/api/v1/documents/upload" \
-     -H "Content-Type: multipart/form-data" \
-     -F "file=@document.pdf"
-Check Status
-bashcurl "http://localhost:8000/api/v1/documents/{document_id}/status"
-Get Results
-bashcurl "http://localhost:8000/api/v1/documents/{document_id}/results"
-🏛️ Architecture Principles
-
-Serverless-First - Pay only for what you use
-Event-Driven - Reactive processing pipeline
-Microservices - Single responsibility functions
-API-First - Well-documented, testable endpoints
-Infrastructure as Code - Reproducible deployments
-
-🤝 Contributing
-
-Fork the repository
-Create a feature branch: git checkout -b feature/amazing-feature
-Commit changes: git commit -m 'Add amazing feature'
-Push to branch: git push origin feature/amazing-feature
-Open a Pull Request
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-🙏 Acknowledgments
-
-AWS for providing excellent cloud services
-FastAPI for the modern Python web framework
-Open source community for amazing packages
+tests/                     # Test suite
+migrations/                # Alembic database migrations
+docs/                     # Documentation
+ ```
 
 
-<div align="center">
-Built with ❤️ using AWS and Python
-⭐ Star this repo • 🐛 Report Bug • ✨ Request Feature
-</div>
+
